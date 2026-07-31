@@ -19,6 +19,14 @@ KLTu connects **FIPS 203 ML-KEM** session wire formats with a **native lattice F
 | **Paper C** | FHE evaluation, FIPS bridge context, Path-O style measurement posture | 
 [doi:10.5281/zenodo.21543529](https://doi.org/10.5281/zenodo.21543529) |
 
+## Related: observational defense (Paper D)
+
+Complementary work on the **observation channel** (OIMD & Attack Cost Inversion), not the crypto wire/FHE plane:
+
+- GitHub: https://github.com/JFCSG/TBH-OIMD  
+- Zenodo: https://doi.org/10.5281/zenodo.21682560  
+- Video: https://youtu.be/jmXbr0NQBkc  
+
 ---
 
 ## Explainer video
