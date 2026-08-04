@@ -61,6 +61,30 @@ If a single reference to the overall KLTu public overview is needed:
 
 ---
 
+## Paper E — Role-separated L1 signatures at 1056 Bytes.
+
+**Title:** Role-Separated Post-Quantum Signatures for L1 Networks: Native DSA v2 (Module Rank Family) with FIPS 204 Anchors
+**Focus:** Solution to the PQC L1 signature traffic bloat proposed with KLTu native and role-separation.  
+**DOI:** [10.5281/zenodo.21787060](https://doi.org/10.5281/zenodo.21787060)  
+**URL:** https://doi.org/10.5281/zenodo.21787060
+
+### BibTeX
+
+```bibtex
+@misc{kltu_paper_c_zenodo_21787060,
+  title        = {Role-Separated Post-Quantum (Paper E)},
+  author       = {Chung, Jinhyuk Fred},
+  year         = {2026},
+  howpublished = {Zenodo},
+  doi          = {10.5281/zenodo.21787060},
+  url          = {https://doi.org/10.5281/zenodo.21787060},
+  note         = {Paper E -- Role-Separated PQC Signatures for L1 Networks}
+}
+```
+
+---
+
+
 ## License of the papers
 
 Reuse of paper text and figures follows each Zenodo record’s license (e.g. CC BY-NC-ND where applicable).  
