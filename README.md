@@ -18,6 +18,8 @@ KLTu connects **FIPS 203 ML-KEM** session wire formats with a **native lattice F
 [doi:10.5281/zenodo.21719064](https://doi.org/10.5281/zenodo.21719064) |
 | **Paper C** | FHE evaluation, FIPS bridge context, Path-O style measurement posture | 
 [doi:10.5281/zenodo.21543529](https://doi.org/10.5281/zenodo.21543529) |
+| **Paper E** | Role-separated L1 signatures: Native DSA v2 (sub-MTU mesh) + FIPS 204 persistent path | 
+[doi:10.5281/zenodo.21787060](https://doi.org/10.5281/zenodo.21787060) |
 
 ## Related: observational defense (Paper D)
 
@@ -33,6 +35,7 @@ Complementary work on the **observation channel** (OIMD & Attack Cost Inversion)
 
 YouTube: (https://youtu.be/PTuTUWofkto)
 YouTube: (https://youtu.be/PucVw8m3gQo)
+Youtube: (https://youtu.be/GteKc35uJCk)
 
 ---
 
