@@ -21,6 +21,15 @@ KLTu connects **FIPS 203 ML-KEM** session wire formats with a **native lattice F
 | **Paper E** | Role-separated L1 signatures: Native DSA v2 (sub-MTU mesh) + FIPS 204 persistent path | 
 [doi:10.5281/zenodo.21787060](https://doi.org/10.5281/zenodo.21787060) |
 
+## Lattice estimator (classical)
+
+| Object | Classical cost | Note |
+|--------|----------------|------|
+| Native DSA M / KLTu-KEM-768 | ≈ 2^196.4 | Not inferior to NIST Cat. 3 scale |
+| Native DSA H / KLTu-KEM-1024 | ≈ 2^262.3 | Not inferior to NIST Cat. 5 scale |
+
+Method one-pagers: see `docs/KLTu_Native_Estimator_Method_OnePager.docx` and `docs/KLTu_Native_KEM_Estimator_Method_OnePager.docx`.
+
 ## Related: observational defense (Paper D)
 
 Complementary work on the **observation channel** (OIMD & Attack Cost Inversion), not the crypto wire/FHE plane:
